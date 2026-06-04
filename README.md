@@ -1,2 +1,2 @@
 # FlashLearn-APCSP-Project
-My AP Computer Science Principles Create Task project: FlashLearn, a vocabulary flashcard app built in Python using CMU CS Academy.
+FlashLearn — A vocabulary flashcard app built in Python using CMU CS Academy. It uses lists, functions, conditionals, and event handling to let users flip through computer science flashcards and study key APCSP terms.
